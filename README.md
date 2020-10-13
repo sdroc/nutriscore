@@ -35,10 +35,13 @@ For Nutri score service, use a stream supplied by the response of http request e
 Install maven tool for build application (http://maven.apache.org/download.cgi)
 
 Create executable jar
+
 mvn clean package
 
 Create distribution
+
 Distribution can be created for linux and/or windows target
+
 mvn install -Plinux,windows
 
 Note: build with Maven version 3.3.6
