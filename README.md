@@ -26,7 +26,7 @@ of selected. Allow to create also soft transition when nutriscre change.
 
 For Nutri score service, use a stream supplied by the response of http request every 10s. If connection lost, the stream is not supplied and blocked until request success 
 
-#Improvements
+# Improvements
 * Manage most calculation on component resize
 * Manage size of corner  on component resize
 * Use api random or use random.org-simpleclient
