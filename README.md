@@ -29,6 +29,7 @@ For Nutri score service, use a stream supplied by the response of http request e
 #Improvements
 * Manage most calculation on component resize
 * Manage size of corner  on component resize
+* Use api random
 
 
 # Build
