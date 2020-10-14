@@ -1,1 +1,1 @@
-%JAVA_HOME%/bin/java -jar nutriscore-1.0-executable.jar
+"%JAVA_HOME%/bin/java" -jar nutriscore-1.0-executable.jar
